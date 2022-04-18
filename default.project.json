@@ -1,0 +1,11 @@
+{
+  "name": "Better Chat V3",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ServerScriptService"
+    }
+  }
+}

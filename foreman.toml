@@ -1,0 +1,7 @@
+[tools]
+rojo = { github = "rojo-rbx/rojo", version = "^7.0.0" }
+tarmac = { github = "jeparlefrancais/tarmac", version = "^0.7.1" }
+selene = { github = 'Kampfkarren/selene', version = '^0.16.0' }
+stylua = { github = "JohnnyMorganz/stylua", version = "^0.13.0" }
+run-in-roblox = { github = 'rojo-rbx/run-in-roblox', version = "^0.3" }
+darklua = { gitlab = "seaofvoices/darklua", version = "^0.7.0" }
